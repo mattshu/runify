@@ -1,13 +1,8 @@
 // Requires async for proper function
-try {
 chrome.runtime.onMessage.addListener(async function (request, sender, sendResponse) {
   const runeList = getRunes();
   sendResponse({runes:runeList});
 });
-}
-catch (err) {
-  console.log('ok ' + err);
-}
 
 function getRunes()
 {
