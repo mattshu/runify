@@ -1,6 +1,8 @@
 # runify
 A Google Chrome extension that displays all runes in your characters inventory. It includes an option to show you what happens if you were to upgrade all of your runes.
 
+*Only works when browsing your own character on https://beta.pathofdiablo.com/my-toons
+
 ## [Click to view Runify on the Chrome Web Store](https://chrome.google.com/webstore/detail/runify/dhbmdidcnmfbgdmpjadklimeoepgflfm)
 
 <p align="center">
