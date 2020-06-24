@@ -2,9 +2,8 @@ const RUNES = ['el', 'eld', 'tir', 'nef', 'eth', 'ith', 'tal', 'ral', 'ort', 'th
                'dol', 'hel', 'io', 'lum', 'ko', 'fal', 'lem', 'pul', 'um', 'mal', 'ist', 'gul', 'vex', 'ohm',
                'lo', 'sur', 'ber', 'jah', 'cham', 'zod'];
 const DEFAULT_SETTINGS = {
-               'prices': ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0',
-                          '0', '0.0125', '0.0125', '0.0375', '0.0475', '0.0625', '0.1', '0.1625', '0.25',
-                          '0.5', '0.75', '1.5', '1', '2', '3.25', '1', '1'],
+               'prices': ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0',
+                          '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'],
              'upgrades': [true, true, true, true, true, true, true, true, true,
                           true, true, true, true, true, true, true, true, false,
                           false, false, false, false, false, false, false, false, 

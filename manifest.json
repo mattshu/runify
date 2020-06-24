@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "Runify",
-    "description": "Rune condenser",
-    "version": "1.0.0",
+    "description": "Path of Diablo players can use Runify to display all runes in their character's inventory with a little extra.",
+    "version": "0.0.2",
     "icons": {
         "16":   "images/icon_16.png",
         "48":   "images/icon_48.png",
@@ -17,6 +17,5 @@
         "default_icon": "images/icon_512.png",
         "default_popup": "main.html",
         "default_title": "Runify"
-    },
-    "permissions": ["activeTab", "storage"]
+    }
 }
